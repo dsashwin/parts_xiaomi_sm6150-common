@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Tampilan ambien</string>
+    <string name="ambient_enable">Tampilan ambient</string>
     <string name="doze_brightness_title">Kecerahan Always on</string>
     <string name="doze_brightness_summary">%s mode diaktifkan</string>
     <!-- Dirac settings -->
