@@ -13,11 +13,11 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Use ambient display</string>
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
+    <string name="ambient_enable">ആമ്പിയന്റ് ഡിസ്‌പ്ലേ ഉപയോഗിക്കുക</string>
+    <string name="doze_brightness_title">എപ്പോഴും തെളിച്ചത്തിൽ</string>
+    <string name="doze_brightness_summary">മോഡ് പ്രവർത്തനക്ഷമമാക്കി</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_title">മി ശബ്ദ എൻഹാൻസർ</string>
     <string name="dirac_enable">Enable</string>
     <string name="dirac_summary">Optimize audio quality</string>
     <string name="dirac_headset_title">Choose headphones type</string>
