@@ -14,7 +14,7 @@
 <resources>
     <!-- Ambient settings -->
     <string name="ambient_enable">Używaj Ambient Display</string>
-    <string name="doze_brightness_title">Zawsze jasny</string>
+    <string name="doze_brightness_title">Jasność ekranu w trybie zawsze włączony</string>
     <string name="doze_brightness_summary">Tryb %s jest włączony</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -57,8 +57,8 @@
     <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Elektroniczny</string>
-    <string name="dirac_preset_country">Kraj</string>
-    <string name="dirac_preset_dance">Taniec</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Dirac settings: Sound Scenes -->
     <string name="music_headset_scenario_select">Wybierz scenę</string>
