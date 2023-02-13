@@ -40,8 +40,8 @@
     <string name="dirac_headset_cancelling">മി നോയ്സ് ക്യാൻസലിംഗ് 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi ഹാഫ് ഇൻ ഇയർ</string>
     <string name="dirac_headset_in_ear2">മി ഇൻ ഇയർ 2</string>
-    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
-    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_earphone_basic">മി ഇയർഫോൺ ബേസിക്</string>
+    <string name="dirac_headset_earphone">മി ഹെഡ്‌ഫോണുകള്‍</string>
     <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
     <string name="dirac_headset_piston_typec">Mi In-Ear Headphones (Type-C)</string>
     <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
@@ -49,38 +49,38 @@
     <string name="dirac_headset_redmi_earphones">Redmi Earphones</string>
     <string name="dirac_headset_dual_driver_in_ear">Mi Dual Driver In-ear Earphones</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Default</string>
-    <string name="dirac_preset_rock">Rock</string>
-    <string name="dirac_preset_jazz">Jazz</string>
-    <string name="dirac_preset_pop">Pop</string>
-    <string name="dirac_preset_classical">Classical</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
-    <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Electronic</string>
-    <string name="dirac_preset_country">Country</string>
-    <string name="dirac_preset_dance">Dance</string>
-    <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_default">സ്ഥിരമായത്</string>
+    <string name="dirac_preset_rock">റോക്ക്</string>
+    <string name="dirac_preset_jazz">ജാസ്സ്</string>
+    <string name="dirac_preset_pop">പോപ്പ്</string>
+    <string name="dirac_preset_classical">ക്ലാസിക്കൽ</string>
+    <string name="dirac_preset_hiphop">ഹിപ്പ് ഹോപ്പ്</string>
+    <string name="dirac_preset_blues">ദുഃഖഭാവം</string>
+    <string name="dirac_preset_electronic">ഇലക്ട്രോണിക്ക്</string>
+    <string name="dirac_preset_country">കൺട്രി</string>
+    <string name="dirac_preset_dance">നൃത്തം</string>
+    <string name="dirac_preset_metal">മെറ്റൽ</string>
     <!-- Dirac settings: Sound Scenes -->
     <string name="music_headset_scenario_select">Choose scene</string>
-    <string name="music_headset_scenario_intelligent">Smart</string>
-    <string name="music_headset_scenario_music">Music</string>
-    <string name="music_headset_scenario_video">Video</string>
-    <string name="music_headset_scenario_vocal">Voice</string>
+    <string name="music_headset_scenario_intelligent">സ്മാർട്ട്</string>
+    <string name="music_headset_scenario_music">സംഗീതം</string>
+    <string name="music_headset_scenario_video">വീഡിയോ</string>
+    <string name="music_headset_scenario_vocal">ശബ്ദം</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">മി ശബ്ദ എൻഹാൻസർ</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Per-app thermal profile configuration</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">തെർമൽ പ്രൊഫൈൽസ്</string>
+    <string name="thermal_summary">ഓരോ ആപ്പിനും തെർമൽ പ്രൊഫൈൽ കോൺഫിഗറേഷൻ</string>
+    <string name="thermal_default">സ്ഥിരമായത്</string>
+    <string name="thermal_benchmark">ബെഞ്ച്മാർക്</string>
+    <string name="thermal_browser">ബ്രൗസര്‍</string>
+    <string name="thermal_camera">ക്യാമറ</string>
+    <string name="thermal_dialer">ഡയലർ</string>
+    <string name="thermal_gaming">ഗെയിമിംഗ്</string>
+    <string name="thermal_streaming">സ്ട്രീമിംഗ്</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
+    <string name="clear_speaker_title">സ്പീക്കർ വൃത്തിയാക്കുക</string>
+    <string name="clear_speaker_summary">സ്പീക്കർ വൃത്തിയാക്കാൻ 30 സെക്കന്റ് ഓഡിയോ പ്ലേ ചെയ്യുക</string>
     <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
     <!-- Haptic Level Settings -->
     <string name="haptic_title">Haptic feedback</string>
