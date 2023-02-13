@@ -13,9 +13,9 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Use ambient display</string>
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
+    <string name="ambient_enable">使用微光螢幕</string>
+    <string name="doze_brightness_title">一律顯示的亮度</string>
+    <string name="doze_brightness_summary">已啟用 %s 模式</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_enable">Enable</string>
