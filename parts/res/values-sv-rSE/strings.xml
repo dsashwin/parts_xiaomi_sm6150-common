@@ -13,12 +13,12 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Use ambient display</string>
+    <string name="ambient_enable">Aktiv låsskärm</string>
     <string name="doze_brightness_title">Always on brightness</string>
     <string name="doze_brightness_summary">%s mode is enabled</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_enable">Enable</string>
+    <string name="dirac_enable">Aktivera</string>
     <string name="dirac_summary">Optimize audio quality</string>
     <string name="dirac_headset_title">Choose headphones type</string>
     <string name="dirac_preset_title">Choose a preset</string>
