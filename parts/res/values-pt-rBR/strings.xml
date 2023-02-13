@@ -13,15 +13,15 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Utilizar a tela ambiente</string>
-    <string name="doze_brightness_title">Brilho do modo sempre ativado</string>
+    <string name="ambient_enable">Usar tela ambiente</string>
+    <string name="doze_brightness_title">Brilho no modo sempre ativo</string>
     <string name="doze_brightness_summary">O modo %s está ativado</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Aprimoramento de Som Mi</string>
+    <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_enable">Ativar</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
-    <string name="dirac_headset_title">Escolha o tipo de fone</string>
-    <string name="dirac_preset_title">Selecionar configuração</string>
+    <string name="dirac_headset_title">Selecionar tipo de fone de ouvido</string>
+    <string name="dirac_preset_title">Escolha uma predefinição</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -61,18 +61,18 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Dirac settings: Sound Scenes -->
-    <string name="music_headset_scenario_select">Escolher a cena</string>
+    <string name="music_headset_scenario_select">Escolher cenário</string>
     <string name="music_headset_scenario_intelligent">Inteligente</string>
     <string name="music_headset_scenario_music">Música</string>
     <string name="music_headset_scenario_video">Vídeo</string>
     <string name="music_headset_scenario_vocal">Voz</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Aprimoramento de Som Mi</string>
+    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Perfis térmicos</string>
-    <string name="thermal_summary">Configuração do perfil térmico por aplicativo</string>
+    <string name="thermal_summary">Defina um perfil térmico de acordo com sua necessidade</string>
     <string name="thermal_default">Padrão</string>
-    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Navegador</string>
     <string name="thermal_camera">Câmera</string>
     <string name="thermal_dialer">Discador</string>
@@ -83,10 +83,10 @@
     <string name="clear_speaker_summary">Reproduzir um áudio de 30 segundos para limpar o alto-falante</string>
     <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Você deve ajustar o volume de mídia para o máximo.\n\nSe o alto-falante estiver muito bloqueado, execute este recurso 2 a 5 vezes enquanto agita seu dispositivo com o alto-falante voltado para baixo.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Feedback tátil</string>
-    <string name="haptic_warning">Configurar um nível tátil muito alto pode causar danos permanentes no hardware, use por sua conta e risco</string>
-    <string name="haptic_summary">Intensidade da vibração do toque</string>
+    <string name="haptic_title">Retorno tátil</string>
+    <string name="haptic_warning">Configurar um nível de retorno tátil muito alto pode causar danos permanentes no hardware, use por sua conta e risco</string>
+    <string name="haptic_summary">Personalizar intensidade da vibração</string>
     <string name="haptic_level_title">Nível</string>
-    <string name="haptic_level_summary">Quantidade de intensidade da vibração</string>
-    <string name="haptic_level_summary_incompatible">Recurso indisponível</string>
+    <string name="haptic_level_summary">Intensidade da vibração</string>
+    <string name="haptic_level_summary_incompatible">Recurso não suportado</string>
 </resources>
