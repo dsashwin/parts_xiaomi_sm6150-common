@@ -69,8 +69,8 @@
     <!-- QS tile title -->
     <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Per-app thermal profile configuration</string>
+    <string name="thermal_title">Perfiles térmicos</string>
+    <string name="thermal_summary">Configuración del perfil térmico por aplicación</string>
     <string name="thermal_default">Predeterminado</string>
     <string name="thermal_benchmark">Benchmark</string>
     <string name="thermal_browser">Navegador</string>
@@ -81,12 +81,12 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Limpiar altavoz</string>
     <string name="clear_speaker_summary">Reproduce un audio de 30 segundos para limpiar el altavoz</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
+    <string name="clear_speaker_description">Ejecuta esta función una o dos veces si ves que el polvo está obstruyendo el altavoz. Sube el volumen al máximo.\n\nSi el altavoz está un poco bloqueado, ejecuta esta función de 2 a 5 veces mientras agitas el dispositivo con el altavoz hacia abajo.\n\n Advertencia: Desconecta los auriculares.</string>
     <!-- Haptic Level Settings -->
     <string name="haptic_title">Respuesta háptica</string>
     <string name="haptic_warning">La configuración de nivel háptico demasiado alto puede causar daños permanentes en el hardware, usarlo bajo su propio riesgo</string>
     <string name="haptic_summary">Personalizar intensidad de vibración</string>
     <string name="haptic_level_title">Nivel</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_level_summary">Intensidad de vibración</string>
+    <string name="haptic_level_summary_incompatible">Función no compatible</string>
 </resources>
