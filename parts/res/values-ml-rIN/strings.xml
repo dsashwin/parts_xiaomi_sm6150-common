@@ -15,7 +15,7 @@
     <!-- Ambient settings -->
     <string name="ambient_enable">ആമ്പിയന്റ് ഡിസ്‌പ്ലേ ഉപയോഗിക്കുക</string>
     <string name="doze_brightness_title">എപ്പോഴും തെളിച്ചത്തിൽ</string>
-    <string name="doze_brightness_summary">മോഡ് പ്രവർത്തനക്ഷമമാക്കി</string>
+    <string name="doze_brightness_summary">മോഡ് പ്രവർത്തനക്ഷമമാക്കി%s</string>
     <!-- Dirac settings -->
     <string name="dirac_title">മി ശബ്ദ എൻഹാൻസർ</string>
     <string name="dirac_enable">പ്രാപ്തമാക്കുക</string>
@@ -42,12 +42,12 @@
     <string name="dirac_headset_in_ear2">മി ഇൻ ഇയർ 2</string>
     <string name="dirac_headset_earphone_basic">മി ഇയർഫോൺ ബേസിക്</string>
     <string name="dirac_headset_earphone">മി ഹെഡ്‌ഫോണുകള്‍</string>
-    <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
-    <string name="dirac_headset_piston_typec">Mi In-Ear Headphones (Type-C)</string>
-    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
-    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Earphones</string>
-    <string name="dirac_headset_redmi_earphones">Redmi Earphones</string>
-    <string name="dirac_headset_dual_driver_in_ear">Mi Dual Driver In-ear Earphones</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver ഇയർഫോണുകൾ</string>
+    <string name="dirac_headset_piston_typec">Mi in-Ear ഹെഡ്‌ഫോണുകള്‍ (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">മി ബ്ലൂടൂത്ത് നെക്‌ബാൻഡ്‌</string>
+    <string name="dirac_headset_bluetooth_linefree">മി ബ്ലൂടൂത്ത് ഇയർഫോണുകൾ</string>
+    <string name="dirac_headset_redmi_earphones">റെഡ്മി ഇയർഫോണുകൾ</string>
+    <string name="dirac_headset_dual_driver_in_ear">മി ഡ്യുവൽ ഡ്രൈവർ ഇൻ-ഇയർ ഇയർഫോണുകൾ</string>
     <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">സ്ഥിരമായത്</string>
     <string name="dirac_preset_rock">റോക്ക്</string>
@@ -61,7 +61,7 @@
     <string name="dirac_preset_dance">നൃത്തം</string>
     <string name="dirac_preset_metal">മെറ്റൽ</string>
     <!-- Dirac settings: Sound Scenes -->
-    <string name="music_headset_scenario_select">Choose scene</string>
+    <string name="music_headset_scenario_select">സീൻ തിരഞ്ഞെടുക്കുക</string>
     <string name="music_headset_scenario_intelligent">സ്മാർട്ട്</string>
     <string name="music_headset_scenario_music">സംഗീതം</string>
     <string name="music_headset_scenario_video">വീഡിയോ</string>
@@ -81,12 +81,12 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">സ്പീക്കർ വൃത്തിയാക്കുക</string>
     <string name="clear_speaker_summary">സ്പീക്കർ വൃത്തിയാക്കാൻ 30 സെക്കന്റ് ഓഡിയോ പ്ലേ ചെയ്യുക</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
+    <string name="clear_speaker_description">നിങ്ങളുടെ സ്പീക്കർ പൊടിയാൽ ചെറുതായി തടഞ്ഞിട്ടുണ്ടെന്ന് കണ്ടാൽ ഒന്നോ രണ്ടോ തവണ ഈ ഫീച്ചർ പ്രവർത്തിപ്പിക്കുക. മീഡിയ വോളിയം പരമാവധി സജ്ജമാക്കുക.\n\nസ്പീക്കർ വൻതോതിൽ ബ്ലോക്ക് ചെയ്‌തിട്ടുണ്ടെങ്കിൽ, സ്‌പീക്കർ താഴേക്ക് തിരിഞ്ഞ് നിങ്ങളുടെ ഉപകരണം കുലുക്കുമ്പോൾ ഈ ഫീച്ചർ 2-5 തവണ പ്രവർത്തിപ്പിക്കുക.\n\nമുന്നറിയിപ്പ്: ഏതെങ്കിലും ഹെഡ്‌ഫോണുകൾ അൺപ്ലഗ് ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptic feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
-    <string name="haptic_level_title">Level</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_title">ഹപ്‌റ്റിക് ഫീഡ്‌ബാക്ക്</string>
+    <string name="haptic_warning">വളരെ ഉയർന്ന ഹാപ്‌റ്റിക് ലെവൽ സജ്ജീകരിക്കുന്നത് സ്ഥിരമായ ഹാർഡ്‌വെയർ തകരാറിന് കാരണമായേക്കാം, നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്തത്തിൽ ഉപയോഗിക്കുക</string>
+    <string name="haptic_summary">വൈബ്രേഷൻ തീവ്രത ഇഷ്ടാനുസൃതമാക്കുക</string>
+    <string name="haptic_level_title">ലെവൽ</string>
+    <string name="haptic_level_summary">വൈബ്രേഷൻ തീവ്രതയുടെ അളവ്</string>
+    <string name="haptic_level_summary_incompatible">ഫീച്ചർ ലഭ്യമല്ല</string>
 </resources>
