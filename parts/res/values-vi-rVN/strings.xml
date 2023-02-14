@@ -63,30 +63,30 @@
     <!-- Dirac settings: Sound Scenes -->
     <string name="music_headset_scenario_select">Choose scene</string>
     <string name="music_headset_scenario_intelligent">Smart</string>
-    <string name="music_headset_scenario_music">Music</string>
+    <string name="music_headset_scenario_music">Âm nhạc</string>
     <string name="music_headset_scenario_video">Video</string>
-    <string name="music_headset_scenario_vocal">Voice</string>
+    <string name="music_headset_scenario_vocal">Giọng nói</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Tăng cường Mi Sound</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Per-app thermal profile configuration</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Cấu hình hiệu năng</string>
+    <string name="thermal_summary">Cấu hình hiệu năng cho mỗi ứng dụng</string>
+    <string name="thermal_default">Mặc định</string>
+    <string name="thermal_benchmark">Điểm chuẩn</string>
+    <string name="thermal_browser">Trình duyệt</string>
+    <string name="thermal_camera">Máy ảnh</string>
+    <string name="thermal_dialer">Trình quay số</string>
+    <string name="thermal_gaming">Game</string>
+    <string name="thermal_streaming">Phát trực tuyến</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
+    <string name="clear_speaker_title">Làm sạch loa</string>
+    <string name="clear_speaker_summary">Phát âm thanh 30 giây để làm sạch loa</string>
+    <string name="clear_speaker_description">Chạy tính năng này một hoặc hai lần nếu bạn thấy rằng loa của mình bị bụi bám nhẹ. Đặt âm lượng phương tiện ở mức tối đa.\n\nNếu loa bị chặn nhiều, hãy chạy tính năng này 2-5 lần trong khi lắc thiết bị của bạn với loa hướng xuống dưới.\n\nCẢNH Báo: Đảm bảo rằng mọi tai nghe đã được rút ra.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptic feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
-    <string name="haptic_level_title">Level</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_title">Phản hồi xúc giác</string>
+    <string name="haptic_warning">Thiết lập mức rung quá cao có thể gây hư hỏng phần cứng vĩnh viễn, bạn tự chịu rủi ro khi sử dụng</string>
+    <string name="haptic_summary">Cường độ rung của nhạc chuông</string>
+    <string name="haptic_level_title">Mức độ</string>
+    <string name="haptic_level_summary">Cường độ rung của nhạc chuông</string>
+    <string name="haptic_level_summary_incompatible">Tính năng không được hỗ trợ</string>
 </resources>
