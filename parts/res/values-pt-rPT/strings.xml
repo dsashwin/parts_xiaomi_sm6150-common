@@ -87,6 +87,6 @@
     <string name="haptic_warning">Configurar um nível tátil muito alto pode causar danos permanentes no hardware, use por sua conta e risco</string>
     <string name="haptic_summary">Personalizar intensidade da vibração</string>
     <string name="haptic_level_title">Nível</string>
-    <string name="haptic_level_summary">Quantidade de intensidade de vibração</string>
-    <string name="haptic_level_summary_incompatible">Função não suportada</string>
+    <string name="haptic_level_summary">Controlar intensidade da vibração</string>
+    <string name="haptic_level_summary_incompatible">Recurso não suportado</string>
 </resources>
