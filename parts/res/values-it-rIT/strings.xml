@@ -13,17 +13,17 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Use ambient display</string>
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
+    <string name="ambient_enable">Usa l\'Ambient Display</string>
+    <string name="doze_brightness_title">Luminosità always-on</string>
+    <string name="doze_brightness_summary">La modalità %s è abilitata</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_enable">Enable</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_enable">Attiva</string>
+    <string name="dirac_summary">Ottimizza la qualità audio</string>
+    <string name="dirac_headset_title">Scegli il tipo di cuffie</string>
+    <string name="dirac_preset_title">Scegli un preset</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_earbuds">Auricolari Mi</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general_inear">Mi Headphones</string>
@@ -53,10 +53,10 @@
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
-    <string name="dirac_preset_classical">Classical</string>
+    <string name="dirac_preset_classical">Classica</string>
     <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Electronic</string>
+    <string name="dirac_preset_electronic">Elettronica</string>
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
