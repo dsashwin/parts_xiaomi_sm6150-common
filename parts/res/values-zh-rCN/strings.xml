@@ -13,18 +13,18 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Use ambient display</string>
+    <string name="ambient_enable">使用环境显示</string>
     <string name="doze_brightness_title">Always on brightness</string>
     <string name="doze_brightness_summary">%s mode is enabled</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_enable">Enable</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_title">使用米音提升音质</string>
+    <string name="dirac_enable">启用</string>
+    <string name="dirac_summary">优化音频质量</string>
+    <string name="dirac_headset_title">选择耳机类型</string>
+    <string name="dirac_preset_title">请选择预设效果</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_earbuds">Mi Earbuds</string>
-    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_earbuds">小米耳塞式</string>
+    <string name="dirac_headset_in_ear_2013">小米入耳式 (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general_inear">Mi Headphones</string>
     <string name="dirac_headset_piston_basic">Basic Edition</string>
