@@ -67,9 +67,9 @@
     <string name="music_headset_scenario_video">Wideo</string>
     <string name="music_headset_scenario_vocal">Głos</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Ulepszanie dźwięku Mi</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Profil Termiczny</string>
+    <string name="thermal_title">Profile termiczne</string>
     <string name="thermal_summary">Konfiguracja profilu termicznego dla aplikacji</string>
     <string name="thermal_default">Domyślny</string>
     <string name="thermal_benchmark">Benchmark</string>
