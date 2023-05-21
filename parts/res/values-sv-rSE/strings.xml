@@ -47,7 +47,7 @@
     <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
     <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Earphones</string>
     <string name="dirac_headset_redmi_earphones">Redmi hörlurar</string>
-    <string name="dirac_headset_dual_driver_in_ear">Mi Dual Driver In-ear Earphones</string>
+    <string name="dirac_headset_dual_driver_in_ear">Mi Dual Driver In-ear hörlurar</string>
     <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Standard</string>
     <string name="dirac_preset_rock">Rock</string>
