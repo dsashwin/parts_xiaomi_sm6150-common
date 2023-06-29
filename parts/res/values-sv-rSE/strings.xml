@@ -14,7 +14,7 @@
 <resources>
     <!-- Ambient settings -->
     <string name="ambient_enable">Aktiv låsskärm</string>
-    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_title">Ljusstyrka på Always-On Display</string>
     <string name="doze_brightness_summary">%s läge är aktiverad</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ljudförstärkare</string>
@@ -61,7 +61,7 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metall</string>
     <!-- Dirac settings: Sound Scenes -->
-    <string name="music_headset_scenario_select">Choose scene</string>
+    <string name="music_headset_scenario_select">Välj scen</string>
     <string name="music_headset_scenario_intelligent">Smart</string>
     <string name="music_headset_scenario_music">Musik</string>
     <string name="music_headset_scenario_video">Video</string>
@@ -69,24 +69,24 @@
     <!-- QS tile title -->
     <string name="dirac_qs_tile_title">Mi ljudförstärkare</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Per-app thermal profile configuration</string>
+    <string name="thermal_title">Värmeprofiler</string>
+    <string name="thermal_summary">Värmeprofilkonfiguration per app</string>
     <string name="thermal_default">Standard</string>
     <string name="thermal_benchmark">Benchmark</string>
     <string name="thermal_browser">Webbläsare</string>
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Spel</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_streaming">Strömning</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Rensa högtalare</string>
     <string name="clear_speaker_summary">Spela ett 30 sekunders ljudklipp för att rensa högtalaren</string>
     <string name="clear_speaker_description">Kör denna funktion en eller två gånger om du upptäcker att högtalaren är lätt blockerad av damm. Ställ in mediavolymen till maximal.\n\nOm högtalaren blockeras tungt, kör denna funktion 2-5 gånger medan du skakar enheten med högtalaren nedåt.\n\nVARNING: Se till att alla hörlurar är bortkopplade.</string>
     <!-- Haptic Level Settings -->
     <string name="haptic_title">Haptisk feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
+    <string name="haptic_warning">Att ställa in haptisk nivå för högt kan orsaka permanent hårdvaruskada, använd på egen risk</string>
     <string name="haptic_summary">Anpassa vibrationsintensiteten</string>
     <string name="haptic_level_title">Nivå</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
+    <string name="haptic_level_summary">Vibrationsintensitet</string>
     <string name="haptic_level_summary_incompatible">Funktionen stöds inte</string>
 </resources>
