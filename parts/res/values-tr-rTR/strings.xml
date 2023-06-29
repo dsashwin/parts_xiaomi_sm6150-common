@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">Ortam ekranı</string>
+    <string name="ambient_enable">Ortam ekranını göster</string>
     <string name="doze_brightness_title">Her zaman açık ekran parlaklığı</string>
     <string name="doze_brightness_summary">%s modu etkinleştirildi</string>
     <!-- Dirac settings -->
