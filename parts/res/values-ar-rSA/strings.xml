@@ -71,22 +71,22 @@
     <!-- Thermal Profiles -->
     <string name="thermal_title">الملفات الشخصية الحرارية</string>
     <string name="thermal_summary">تهيئة الملف الشخصي الحراري لكل تطبيق</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_default">افتراضي</string>
+    <string name="thermal_benchmark">اختبار الأداء</string>
+    <string name="thermal_browser">المتصفح</string>
+    <string name="thermal_camera">الكاميرا</string>
+    <string name="thermal_dialer">لوحة الاتصال</string>
+    <string name="thermal_gaming">الألعاب</string>
+    <string name="thermal_streaming">البث</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
+    <string name="clear_speaker_title">تنظيف السماعات</string>
+    <string name="clear_speaker_summary">تشغيل صوت لمدة 30 ثانية لتنظيف السماعات</string>
+    <string name="clear_speaker_description">قم بتشغيل هذه الميزة مرة أو مرتين إذا وجدت أن مكبر الصوت الخاص بك مسدود بشكل طفيف بواسطة الغبار. قم برفع مستوى صوت الوسائط إلى اقصى حد.\n\nإذا تم سد مكبر الصوت بشكل كامل، قم بتشغيل هذه الميزة 2-5 مرات أثناء هز جهازك مع مكبر الصوت في اتجاه الأسفل.\n\nتحذير: تأكد من عدم توصيل أي سماعات.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptic feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
-    <string name="haptic_level_title">Level</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_title">الإستجابة الإهتزازية</string>
+    <string name="haptic_warning">إعداد مستوى الإهتزاز عالي جداً قد يسبب ضرراً دائمًا بالجهاز، إستخدامه على مسؤوليتك الخاصة</string>
+    <string name="haptic_summary">تخصيص كثافة الاهتزاز</string>
+    <string name="haptic_level_title">المستوى</string>
+    <string name="haptic_level_summary">كَمَيَّة شدة الاهتزاز</string>
+    <string name="haptic_level_summary_incompatible">الميزة غير مدعومة</string>
 </resources>
