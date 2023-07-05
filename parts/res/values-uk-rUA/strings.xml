@@ -70,7 +70,7 @@
     <string name="dirac_qs_tile_title">Покращення звуку \"Мі Sound\"</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Теплові профілі</string>
-    <string name="thermal_summary">Налаштування теплового профілю додатка</string>
+    <string name="thermal_summary">Налаштування теплового профілю застосунку</string>
     <string name="thermal_default">За замовчуванням</string>
     <string name="thermal_benchmark">Контрольний тест</string>
     <string name="thermal_browser">Веб-переглядач</string>
