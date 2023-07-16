@@ -67,11 +67,11 @@
     <string name="music_headset_scenario_video">Video</string>
     <string name="music_headset_scenario_vocal">Voice</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Mi 사운드 강화</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Thermal profiles</string>
     <string name="thermal_summary">Per-app thermal profile configuration</string>
-    <string name="thermal_default">Default</string>
+    <string name="thermal_default">기본값</string>
     <string name="thermal_benchmark">Benchmark</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Camera</string>
