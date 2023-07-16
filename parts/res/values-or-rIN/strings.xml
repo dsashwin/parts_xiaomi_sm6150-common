@@ -67,7 +67,7 @@
     <string name="music_headset_scenario_video">Video</string>
     <string name="music_headset_scenario_vocal">Voice</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Mi ଧ୍ଵନି ବର୍ଦ୍ଧକ ବ୍ୟବହାର କରିବା</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Thermal profiles</string>
     <string name="thermal_summary">Per-app thermal profile configuration</string>
