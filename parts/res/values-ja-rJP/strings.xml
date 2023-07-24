@@ -69,24 +69,24 @@
     <!-- QS tile title -->
     <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Per-app thermal profile configuration</string>
+    <string name="thermal_title">サーマルプロファイル</string>
+    <string name="thermal_summary">アプリ毎のサーマルプロファイル設定</string>
     <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_benchmark">ベンチマーク</string>
+    <string name="thermal_browser">ブラウザ</string>
+    <string name="thermal_camera">カメラ</string>
+    <string name="thermal_dialer">電話</string>
+    <string name="thermal_gaming">ゲーミング</string>
+    <string name="thermal_streaming">ストリーミング</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Clear speaker</string>
     <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
     <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptic feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
-    <string name="haptic_level_title">Level</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_title">振動フィードバック</string>
+    <string name="haptic_warning">触覚レベルが高すぎると、ハードウェアの損傷が発生する可能性があります。自己責任で使用してください。</string>
+    <string name="haptic_summary">振動強度をカスタマイズ</string>
+    <string name="haptic_level_title">レベル</string>
+    <string name="haptic_level_summary">振動強度の量</string>
+    <string name="haptic_level_summary_incompatible">機能対応していません</string>
 </resources>
