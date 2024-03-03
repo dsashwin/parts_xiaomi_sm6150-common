@@ -21,7 +21,7 @@
     <string name="dirac_enable">Включить</string>
     <string name="dirac_summary">Оптимизация качества звука</string>
     <string name="dirac_headset_title">Выберите тип наушников</string>
-    <string name="dirac_preset_title">Выберите предустановку</string>
+    <string name="dirac_preset_title">Выберите профиль</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -67,9 +67,9 @@
     <string name="music_headset_scenario_video">Видео</string>
     <string name="music_headset_scenario_vocal">Голос</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Усиление звука Mi</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Термические профили</string>
+    <string name="thermal_title">Температурные профили</string>
     <string name="thermal_summary">Конфигурация термического профиля для каждого приложения</string>
     <string name="thermal_default">По умолчанию</string>
     <string name="thermal_benchmark">Производительность</string>
