@@ -70,7 +70,7 @@
     <string name="dirac_qs_tile_title">Усиление звука Mi</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Температурные профили</string>
-    <string name="thermal_summary">Конфигурация термического профиля для каждого приложения</string>
+    <string name="thermal_summary">Конфигурация температурного профиля для каждого приложения</string>
     <string name="thermal_default">По умолчанию</string>
     <string name="thermal_benchmark">Производительность</string>
     <string name="thermal_browser">Браузер</string>
@@ -83,8 +83,8 @@
     <string name="clear_speaker_summary">Воспроизвести 30-секундный звук для очистки динамика</string>
     <string name="clear_speaker_description">Запустите эту функцию один или два раза, если обнаружите, что ваш динамик слегка забит пылью. Установите максимальную громкость.\n\nЕсли динамик загрязнён сильно, запустите функцию 2-5 раз, одновременно встряхивая ваше устройство, направив динамиком вниз.\n\nВНИМАНИЕ: Убедитесь, что наушники отключены.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Тактильный отклик</string>
-    <string name="haptic_warning">Установка слишком высокого тактильного уровня может привести к необратимому повреждению аппаратного обеспечения, используйте на свой страх и риск</string>
+    <string name="haptic_title">Виброотклик</string>
+    <string name="haptic_warning">Слишком высокий уровень виброотклика может привести к необратимому повреждению аппаратного обеспечения, используйте на свой страх и риск</string>
     <string name="haptic_summary">Настройка интенсивности вибрации</string>
     <string name="haptic_level_title">Уровень</string>
     <string name="haptic_level_summary">Интенсивность вибрации</string>
