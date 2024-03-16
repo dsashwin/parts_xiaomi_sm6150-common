@@ -21,17 +21,17 @@
     <string name="dirac_enable">Ativar</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
     <string name="dirac_headset_title">Selecionar tipo de fone de ouvido</string>
-    <string name="dirac_preset_title">Escolha uma predefinição</string>
+    <string name="dirac_preset_title">Escolher uma predefinição</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston 1</string>
-    <string name="dirac_headset_general_inear">Mi Headphones</string>
-    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_general_inear">Fones de ouvido Mi</string>
+    <string name="dirac_headset_piston_basic">Edição Basic</string>
     <string name="dirac_headset_piston_2">Mi Piston 2</string>
-    <string name="dirac_headset_piston_standard">Standard Edition</string>
-    <string name="dirac_headset_piston_youth">Youth Edition</string>
-    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_piston_standard">Edição Standard</string>
+    <string name="dirac_headset_piston_youth">Edição Youth</string>
+    <string name="dirac_headset_piston_color">Edição Color</string>
     <string name="dirac_headset_in_ear">Mi In-Ear</string>
     <string name="dirac_headset_capsule">Mi Capsule</string>
     <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
@@ -40,7 +40,7 @@
     <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
-    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Básico</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
     <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
     <string name="dirac_headset_piston_typec">Mi In-Ear Headphones (Tipo-C)</string>
@@ -54,9 +54,9 @@
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Clássico</string>
-    <string name="dirac_preset_hiphop">Hip-hop</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Eletrônico</string>
+    <string name="dirac_preset_electronic">Eletrônica</string>
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
@@ -70,7 +70,7 @@
     <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Perfis térmicos</string>
-    <string name="thermal_summary">Defina um perfil térmico de acordo com sua necessidade</string>
+    <string name="thermal_summary">Configuração de perfil térmico por app</string>
     <string name="thermal_default">Padrão</string>
     <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Navegador</string>
@@ -81,7 +81,7 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Limpar alto-falante</string>
     <string name="clear_speaker_summary">Reproduzir um áudio de 30 segundos para limpar o alto-falante</string>
-    <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Você deve ajustar o volume de mídia para o máximo.\n\nSe o alto-falante estiver muito bloqueado, execute este recurso 2 a 5 vezes enquanto agita seu dispositivo com o alto-falante voltado para baixo.</string>
+    <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Coloque o volume de mídia no máximo.\n\nSe o alto-falante estiver muito bloqueado, execute esse recurso de 2 a 5 vezes enquanto agita o dispositivo com o alto-falante voltado para baixo.\n\nAVISO: Certifique-se de que todos os fones de ouvido estejam desconectados.</string>
     <!-- Haptic Level Settings -->
     <string name="haptic_title">Retorno tátil</string>
     <string name="haptic_warning">Configurar um nível de retorno tátil muito alto pode causar danos permanentes no hardware, use por sua conta e risco</string>
