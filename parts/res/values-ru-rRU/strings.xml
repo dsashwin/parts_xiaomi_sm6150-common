@@ -17,11 +17,11 @@
     <string name="doze_brightness_title">Яркость всегда включённого экрана</string>
     <string name="doze_brightness_summary">%s режим включен</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_title">Улучшение звука Сяоми</string>
     <string name="dirac_enable">Включить</string>
     <string name="dirac_summary">Оптимизация качества звука</string>
     <string name="dirac_headset_title">Выберите тип наушников</string>
-    <string name="dirac_preset_title">Выберите предустановку</string>
+    <string name="dirac_preset_title">Выберите профиль</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -67,10 +67,10 @@
     <string name="music_headset_scenario_video">Видео</string>
     <string name="music_headset_scenario_vocal">Голос</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
+    <string name="dirac_qs_tile_title">Усиление звука Mi</string>
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Термические профили</string>
-    <string name="thermal_summary">Конфигурация термического профиля для каждого приложения</string>
+    <string name="thermal_title">Температурные профили</string>
+    <string name="thermal_summary">Конфигурация температурного профиля для каждого приложения</string>
     <string name="thermal_default">По умолчанию</string>
     <string name="thermal_benchmark">Производительность</string>
     <string name="thermal_browser">Браузер</string>
@@ -81,10 +81,10 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Очистка динамика</string>
     <string name="clear_speaker_summary">Воспроизвести 30-секундный звук для очистки динамика</string>
-    <string name="clear_speaker_description">Запустите эту функцию один или два раза, если обнаружите, что ваш динамик слегка забит пылью. Установите максимальную громкость.\n\nЕсли динамик загрязнен сильно, запустите функцию 2-5 раз, одновременно встряхивая ваше устройство, направив динамиком вниз.\n\nВНИМАНИЕ: Убедитесь, что наушники отключены.</string>
+    <string name="clear_speaker_description">Запустите эту функцию один или два раза, если обнаружите, что ваш динамик слегка забит пылью. Установите максимальную громкость.\n\nЕсли динамик загрязнён сильно, запустите функцию 2-5 раз, одновременно встряхивая ваше устройство, направив динамиком вниз.\n\nВНИМАНИЕ: Убедитесь, что наушники отключены.</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Тактильный отклик</string>
-    <string name="haptic_warning">Установка слишком высокого тактильного уровня может привести к необратимому повреждению аппаратного обеспечения, используйте на свой страх и риск</string>
+    <string name="haptic_title">Виброотклик</string>
+    <string name="haptic_warning">Слишком высокий уровень виброотклика может привести к необратимому повреждению аппаратного обеспечения, используйте на свой страх и риск</string>
     <string name="haptic_summary">Настройка интенсивности вибрации</string>
     <string name="haptic_level_title">Уровень</string>
     <string name="haptic_level_summary">Интенсивность вибрации</string>
