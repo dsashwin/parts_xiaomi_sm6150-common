@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- Ambient settings -->
-    <string name="ambient_enable">使用环境显示</string>
+    <string name="ambient_enable">启用环境显示</string>
     <string name="doze_brightness_title">始终亮屏</string>
     <string name="doze_brightness_summary">%s 模式已启用</string>
     <!-- Dirac settings -->
