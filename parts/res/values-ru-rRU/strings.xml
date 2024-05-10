@@ -67,7 +67,7 @@
     <string name="music_headset_scenario_video">Видео</string>
     <string name="music_headset_scenario_vocal">Голос</string>
     <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">Усиление звука Mi</string>
+    <string name="dirac_qs_tile_title">Mi Sound Enhancer</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">Температурные профили</string>
     <string name="thermal_summary">Конфигурация температурного профиля для каждого приложения</string>
