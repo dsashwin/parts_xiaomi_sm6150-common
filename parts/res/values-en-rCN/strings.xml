@@ -81,12 +81,12 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">清理扬声器</string>
     <string name="clear_speaker_summary">播放一个30秒的音频清理扬声器</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.\n\nWARNING: Ensure that any headphones are unplugged.</string>
+    <string name="clear_speaker_description">如果扬声器被灰尘轻微遮挡，运行此功能一到两次。将媒体音量调节到最大。\n\n如果扬声器严重堵塞，请运行此功能 2-5 次，同时扬声器朝下摇晃设备。\n\n警告：请确保耳机插头已经拔出。</string>
     <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptic feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
-    <string name="haptic_level_title">Level</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Feature not supported</string>
+    <string name="haptic_title">触觉反馈</string>
+    <string name="haptic_warning">触觉反馈级别设置过高可能会造成硬件永久损坏，风险自负</string>
+    <string name="haptic_summary">自定义振动强度</string>
+    <string name="haptic_level_title">等级</string>
+    <string name="haptic_level_summary">振动强度</string>
+    <string name="haptic_level_summary_incompatible">不支持的功能</string>
 </resources>
