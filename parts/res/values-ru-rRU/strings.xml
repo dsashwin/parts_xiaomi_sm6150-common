@@ -17,7 +17,7 @@
     <string name="doze_brightness_title">Яркость всегда включённого экрана</string>
     <string name="doze_brightness_summary">%s режим включен</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Улучшение звука Сяоми</string>
+    <string name="dirac_title">Улучшение звука Xiaomi</string>
     <string name="dirac_enable">Включить</string>
     <string name="dirac_summary">Оптимизация качества звука</string>
     <string name="dirac_headset_title">Выберите тип наушников</string>
