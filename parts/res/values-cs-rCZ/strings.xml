@@ -85,8 +85,8 @@
     <!-- Haptic Level Settings -->
     <string name="haptic_title">Hmatová odezva</string>
     <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Customize vibration intensity</string>
+    <string name="haptic_summary">Přizpůsobit intenzitu vibrací</string>
     <string name="haptic_level_title">Úroveň</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
+    <string name="haptic_level_summary">Množství intenzity vibrací</string>
     <string name="haptic_level_summary_incompatible">Funkce není podporována</string>
 </resources>
