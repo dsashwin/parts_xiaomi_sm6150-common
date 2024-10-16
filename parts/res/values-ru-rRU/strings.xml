@@ -14,7 +14,7 @@
 <resources>
     <!-- Ambient settings -->
     <string name="ambient_enable">Использовать Ambient Display</string>
-    <string name="doze_brightness_title">Яркость всегда включённого экрана</string>
+    <string name="doze_brightness_title">Яркость AOD</string>
     <string name="doze_brightness_summary">%s режим включен</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Улучшение звука Xiaomi</string>
@@ -54,7 +54,7 @@
     <string name="dirac_preset_jazz">Джаз</string>
     <string name="dirac_preset_pop">Поп</string>
     <string name="dirac_preset_classical">Классика</string>
-    <string name="dirac_preset_hiphop">Хип хоп</string>
+    <string name="dirac_preset_hiphop">Хип-хоп</string>
     <string name="dirac_preset_blues">Блюз</string>
     <string name="dirac_preset_electronic">Электронная</string>
     <string name="dirac_preset_country">Кантри</string>
