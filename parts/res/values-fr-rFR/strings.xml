@@ -17,13 +17,13 @@
     <string name="doze_brightness_title">Luminosité permanente</string>
     <string name="doze_brightness_summary">Le mode %s est activé</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">Amélioration audio Mi</string>
+    <string name="dirac_title">Amélioration du son Mi</string>
     <string name="dirac_enable">Activer</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
     <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
     <string name="dirac_preset_title">Sélectionner un préréglage</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_earbuds">Mi Eadbuds</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general_inear">Mi Headphones</string>
