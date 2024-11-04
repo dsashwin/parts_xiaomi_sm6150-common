@@ -18,9 +18,9 @@
     <string name="doze_brightness_summary">Modul %s este activat</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Amplificatorul Mi Sound</string>
-    <string name="dirac_enable">Utilizează amplificator Mi Sound</string>
+    <string name="dirac_enable">Activează</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
-    <string name="dirac_headset_title">Alege tipul de căști</string>
+    <string name="dirac_headset_title">Alege tipul căștilor</string>
     <string name="dirac_preset_title">Alege o presetare</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_earbuds">Căşti în ureche Mi</string>
@@ -79,7 +79,7 @@
     <string name="thermal_gaming">Jocuri</string>
     <string name="thermal_streaming">Aplicații streaming</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Claritatea sunetului</string>
+    <string name="clear_speaker_title">Curățare difuzor</string>
     <string name="clear_speaker_summary">Redă un sunet de 30 sec. pentru claritatea sunetului</string>
     <string name="clear_speaker_description">Rulează această caracteristică o dată sau de două ori dacă descoperi că difuzorul este ușor blocat de praf. Setează volumul media la maxim.\n\n Dacă difuzorul este blocat puternic, rulează această caracteristică de 2-5 ori în timp ce scuturi dispozitivul cu difuzorul orientat în jos.</string>
     <!-- Haptic Level Settings -->
